@@ -1,0 +1,778 @@
+
+.bi {
+  color: #FFAE42;
+}
+.biz{
+  font-size: 17px;
+}
+.log-in {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Create-acc{
+  position: relative;
+  bottom: 30px;
+  font-family: 'Roboto';
+  font-size: 22px;
+  padding:5px; 
+  margin-top: -5px;
+}
+.reg-back{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  padding: 30px;
+  background-color: white;
+  width: 10px;
+  padding: 40px;
+  margin-top: 15px !important;
+}
+.extra-box{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* height: 500px !important; */
+  margin-top: 100px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.extra-box1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width:100%;
+  /* height: 400px; */
+}
+.reg-bg{
+  background-color:#c3e5e7;
+}
+.table-bordered{
+ border: solid 2px red;
+}
+.lg-in {
+  font-family: 'Roboto';
+}
+.admin-appli{
+  font-family: 'Roboto';
+  font-size: 22px;
+  height: 40px;
+  padding:5px;
+  margin-top: -5px;
+}
+.sub-application{
+  font-family: 'Roboto';
+  font-size: 22px;
+  padding:5px;
+  margin-top: -5px;
+}
+.user-login{
+  font-family: 'Roboto';
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 22px;
+  padding:5px;
+  margin-top: -5px;
+}
+.lable-size{
+  font-size: 13px;
+}
+.ad-in{
+  font-size: 13px !important;
+}
+#pass{
+  font-size: 13px;
+}
+.ed-add{
+  font-size: 13px !important;
+}
+.akash{
+  margin-left: px;
+}
+#applicant_name{
+  font-size: 13px;
+}
+#district_name{
+  font-size: 13px;
+}
+#taluka_name{
+  font-size: 13px;
+}
+#village_name{
+  font-size: 13px;
+}
+#phone{
+  font-size: 13px;
+}
+#email{
+  font-size: 13px;
+}
+#firstname{
+  font-size: 13px;
+}
+#middlename{
+  font-size: 13px;
+}
+#lastname{
+  font-size: 13px;
+}
+#firstname_marathi{
+  font-size: 13px;
+}
+#middlename_marathi{
+  font-size: 13px;
+}
+#lastname_marathi{
+  font-size: 13px;
+}
+#area{
+  font-size: 13px;
+}
+#aadharno{
+  font-size: 13px;
+}
+#birthdate{
+  font-size: 13px;
+}
+.document-type{
+  font-size: 13px !important;
+}
+.fi-choose{
+  font-size: 13px !important;
+}
+.ad-rahiwasi1{
+  position: relative;
+  top: 15px;
+}
+.table-rahi{
+  font-size: 13px;
+}
+.ad-button{
+  font-size: 13px !important;
+}
+.log-btn {
+  text-align: end;
+  font-size: 13px;
+}
+.log-btn a {
+  text-decoration: none;
+}
+.for-btn {
+  justify-content: center;
+}
+.main2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.log-border {
+  padding: 30px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 30px;
+  background-color: white;
+  /* margin-top: 60px; */
+}
+.log-border-document{
+  padding: 30px ;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  padding: 30px;
+  border: 1px solid rgb(150, 146, 146) !important;
+  background-color: white;
+  margin-top: 60px;
+}
+.custom-input {
+  font-family: 'Roboto', sans-serif;
+}
+.user-dash1 {
+  background-color:black;
+  height: 80px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+.user-mobile {
+  justify-content: space-between !important;
+
+}
+.user-dash {
+  background-color:black;
+  height: 80px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+.user-desktop1 {
+  display: none;
+}
+.user-admin {
+  justify-content: space-between;
+}
+.custom-btn {
+  width: 200px;
+  height: 40px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+}
+.btn-1 {
+  background: rgb(112, 162, 205);
+  background: linear-gradient(0deg, rgb(112, 162, 205) 0%, rgba(112, 162, 205) 100%);
+  border: none;
+}
+.btn-1:before {
+  height: 0%;
+  width: 2px;
+}
+.Application-sub{
+  height: 70px;
+  width:200px;
+}
+.side-bar {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #337AB7;
+  height: 500px;
+  width: 300px;
+  display: none;
+}
+.doc-header{
+  background-color: #8eabc4;
+  height: 40px;
+  border-radius: 5px;
+  position: relative;
+  left: 20px;
+}
+.Upload-Documents h4{
+  font-size: 13px;
+  margin-top: 5px;
+}
+.add-btn{
+  padding: 0px 10px;
+  border: solid 2px black;
+}
+.bis{
+  color: white;
+}
+.act-btn1{
+  text-decoration: none;
+  border-radius: 3px;
+  height: 33px;
+}
+.act-btn2{
+  text-decoration: none;
+  border-radius: 3px;
+  height: 33px;
+}
+.act-btn3{
+  background-color: red;
+  padding: 2px 5px;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  height: 33px;
+}
+.footer {
+  background-color: #337AB7;
+  height: 98px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+.admin-list{
+  font-family: 'Roboto', sans-serif;
+  
+}
+.admin-app{
+  justify-content: space-around;
+}
+.for-aadhar{
+  background-color: grey;
+  width: 200px;
+  height: 100px;
+}
+.approve-btn{
+  background-color: green;
+  padding: 10px;
+  border-radius: 5px;
+}
+.cancel-btn{
+  background-color: red;
+  padding: 10px;
+  border-radius: 5px;
+}
+.anch1{
+  color: white;
+}
+.app-btn{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.new-ftp{
+  position: relative;
+  top: 15px;
+  background-color:rgb(59, 58, 58);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+.new-ftp-admin-1{
+  position: relative;
+  top: 21px;
+  background-color:rgb(59, 58, 58);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+.new-ftp-admin{
+  position: relative;
+  top: 39px;
+  background-color:rgb(59, 58, 58);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+
+}
+  
+/* New page design admin */
+
+.main-flex{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+  height: 469px;
+  margin-top: 22px;
+}
+.flex-btn{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 250px !important;
+  height: 80px;
+}
+.flex-btn:hover{
+  background-image: url(../images/btn.png);
+}
+
+
+.center-container{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height:45vh;
+}
+
+.icon-file{
+  background-color: #f5e8c8;
+  font-size: 30px;
+  padding: 20px;
+  position: relative;
+  top: 18px;
+  right: 12px;
+}
+.flex-btn:hover .Submit-Application5{
+  color: white;
+}
+.rahiwasi-daklhla{
+  margin-left: 70px !important;
+}
+.Submit-Application5{
+  text-decoration: none;
+  color: black;
+
+
+}
+.Submit-Application5:hover{
+  color: white;
+}
+  
+@media(min-width:768px) {
+  .log-border {
+    padding: 50px;
+    
+  }
+  .new-768{
+    position: relative;
+    left: 480px !important;
+  }
+ .new-768-2{
+    position: absolute;
+    left: 270px !important;
+    margin-top: -30px;
+  } 
+
+  .app-btn{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .Upload-Documents h4{
+    font-size: 15px;
+    margin-top: 10px;
+  }
+  .footer{
+    height: 58px;
+  }
+  .flex-btn{
+    position: relative;
+    right: 30px;
+  }
+  .flex-10{
+    position: relative;
+   left: 10px;
+  }
+  /* .new-ftp-admin{
+    position: relative;
+    top: 243px;
+  } */
+  .mobile-div{
+    position: relative;
+    bottom: 40px;
+  }
+  .new-two{
+    margin-left: 50px !important;
+  
+  }
+  
+}
+
+
+
+@media(min-width:992px) {
+  .side-bar {
+    display: block;
+  }
+  .main2 {
+    padding-top: 60px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .reg-custom{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .ad-button{
+    display: block;
+      }
+
+  .log-in {
+    height: 350px;
+  }
+
+  .custom-input {
+    width: 300px;
+    /* Adjust the width as needed */
+  }
+
+  .log-img {
+    width: 300px;
+    height: 300px;
+  }
+
+  .log-input {
+    padding: 20px;
+  }
+
+  .for-btn {
+    position: relative;
+    right: 90px;
+  }
+  .new-two{
+    margin-left: 200px !important;
+  }
+ 
+}
+
+@media(min-width:1024px) {
+  .user-dash1 {
+    display: none;
+  }
+
+  .user-desktop1 {
+    display: contents;
+  }
+
+  .side-bar {
+    display: block;
+  }
+  .admin-list{
+    margin-top: 20px !important;
+    /* border-radius: 10px; */
+    /* border-top: solid 5px #337AB7;
+    border-bottom: solid 5px #337AB7; */
+    position: relative;
+    right: 2px;
+  }
+  .fl-10{
+    margin-left: 50px;
+  }
+  .download-option{
+    margin-left: 40px;
+  }
+  .login-section {
+
+    width: 100%;
+  }
+  .new-add-window{
+    display: flex !important;
+  }
+  .document-required{
+    position: relative;
+    left: -170px !important;
+    top: 50px !important;
+    width:320px !important;
+  }
+  .add-login{
+   position: relative;
+   bottom: 40px !important;
+   left:40px;
+  }
+}
+.new-ftp-update{
+  display: none;
+}
+@media(min-width:1326px) {
+ 
+  .for-btn {
+    position: relative;
+    right: 120px;
+  }
+  .admin-list{
+    /* height: 450px; */
+    
+  }
+  .body-hidden{
+    overflow-y: hidden;
+  }
+
+  /* New Footer Style */
+  .new-ftp{
+    display: none;
+  }
+  .new-ftp-update{
+    display: block;
+  }
+  .new-ftp-update {
+    position: fixed;
+    top: 585px;
+    width: 100%;
+    background-color: black !important; 
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.new-ftp-update p {
+    padding: 10px;
+}
+.new-ftp-update a {
+    color: #ff6600; 
+    text-decoration: none;
+}
+.new-two{
+  margin-left: 300px !important;
+  margin-top: -50px !important;
+}
+.reg-custom-new-alig{
+  margin-left: 150px !important;
+}
+.document-required{
+ 
+  width:400px !important;
+}
+.log-border-document{
+  margin-left: -100px !important;
+}
+.sticky-section {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #333; /* You can change the background color */
+  color: white;
+  text-align: center;
+  background-color: black !important; 
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  /* height: 60px; */
+  
+}
+.sticky-section-1{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  background-color: black !important; 
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  left: 0;
+}
+.fix-section{
+  position: relative;
+  bottom: 50px;
+}
+
+}
+
+.sticky-section-1{
+  
+  color: white;
+  text-align: center;
+  background-color: black !important; 
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+}
+
+.log-border{
+  border-bottom: solid 2px rgb(92, 90, 90);
+  border-top: solid 2px rgb(92, 90, 90) !important;
+  border-radius: 15px;
+ }
+ #otp{
+   font-size: 13px;
+ }
+ .forget-label{
+   font-size: 13px;
+ }
+ .login-section{
+   margin-top: 25px;
+   position: relative;
+   /* bottom: 70px; */
+ }
+.ex-box{
+  font-size: 13px !important;
+ }
+  /* barcode verify */
+ .barcode-bg {
+  background-color: #c3e5e7;
+  font-family: 'Roboto';
+}
+
+.code-bg {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 50px !important;
+  height: 400px;
+  width: 300px;
+  border-top: solid 4px rgb(87, 74, 74);
+  border-bottom: solid 4px rgb(87, 74, 74);
+  border-radius: 15px;
+}
+
+.main-bar {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.barcode-type {
+  width: 90%;
+  margin-left: 15px;
+}
+
+.reload {
+  height: 33px;
+  width: 33px;
+}
+
+#barcode-input1 {
+  font-size: 12px !important;
+}
+
+#barcode-input2 {
+  font-size: 12px !important;
+}
+
+.barcode-label {
+  font-size: 14px;
+}
+
+@media(min-width:768px) {
+  .code-bg {
+    width: 600px;
+    height: 370px;
+  }
+
+  .barcode-type {
+    width: 80%;
+    margin-left: 55px !important;
+  }
+
+  .code-bg {
+    margin-top: 100px !important;
+  }
+  .save-btn{
+    margin-top: 35px!important;
+  }
+  .document-required{
+    position: relative;
+    left: 200px;
+  }
+  .add-regis{
+   position: relative;
+   left: 100px !important;
+  
+  }
+  .Registered-complaint{
+    position: relative;
+    left: 30px;
+  }
+
+}
+
+
+
+
+
+.scrollable-list-1 {
+  max-height: 300px; /* Adjust the height as needed */
+  overflow-y: auto;
+  border: 1px solid #ccc; /* Add a border for better visualization */
+}
+
+.document-required{
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  height: 390px;
+  width: 300px;
+  margin-top: 10px !important;
+  padding: 20px !important;
+  border-radius: 7px;
+  margin-left: 10px !important;
+  border: 1px solid rgb(150, 146, 146) !important;
+}
+
+.add-login{
+  margin-left: 35px !important;
+ position: relative;
+ bottom: 20px;
+}
+.add-regis{
+  margin-left: 90px !important;
+ position: relative;
+ bottom: 30px;
+}
+
+
+
+
+.sticky-section {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+}
+
+
+.zoom-in-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh; /* Adjust the height based on your requirements */
+}
+.fix-section{
+  display: flex !important;
+  justify-content: space-evenly !important;
+ 
+}
+

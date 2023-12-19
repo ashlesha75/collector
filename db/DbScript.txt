@@ -1,0 +1,17 @@
+Date: 20-07-23
+ALTER TABLE `rahivasi_form` ADD `firstname_marathi` VARCHAR(30) NOT NULL AFTER `lastname`, ADD `middlename_marathi` VARCHAR(30) NOT NULL AFTER `firstname_marathi`, ADD `lastname_marathi` VARCHAR(30) NOT NULL AFTER `middlename_marathi`;
+
+Date: 26-07-23
+ALTER TABLE `rahivasi_form` ADD `po_verify` TINYINT(1) NOT NULL DEFAULT '0' AFTER `deleted_status`, ADD `po_remark` VARCHAR(200) NOT NULL AFTER `po_verify`, ADD `po_verify_dsc` TINYINT(1) NOT NULL DEFAULT '0' AFTER `po_remark`;
+
+Date: 27-07-23
+ALTER TABLE `rahivasi_form` ADD `final_date` DATE NULL DEFAULT NULL AFTER `po_verify_dsc`;
+
+Date: 31-07-23
+ALTER TABLE `rahivasi_form` ADD `r_f_id` INT(11) NULL DEFAULT '0' AFTER `final_date`;
+
+Date: 21-08-23
+ALTER TABLE `rahivasi_form` ADD `send_dsc` TINYINT(1) NOT NULL DEFAULT '0' AFTER `deleted_status`, ADD `dsc_code` VARCHAR(255) NOT NULL AFTER `send_dsc`;
+
+Date: 23-08-23
+ALTER TABLE `rahivasi_form` ADD `dsc_date` DATE NULL DEFAULT NULL AFTER `dsc_code`;

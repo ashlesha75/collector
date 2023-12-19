@@ -1,0 +1,14 @@
+1..Date : 05-10-2023
+Name : Harshal
+Email : harsh.absoft@gmail.com	
+Phone : 9307357056
+Remark : --Rahiwasi dhakala -Form bhartana automatic marathi ala pahije . : Marathi note added
+--Complaints form working in user login completed
+ 
+
+2..Date : 11-10-2023
+Name : Harshal
+Email : harsh.absoft@gmail.com	
+Phone : 9307357056
+Remark : --reamrk edit and complaint working in clerk login completed
+--changes in db : latest db => rahivasi_new_11_10_2023 --> new column name : clerk_remark
